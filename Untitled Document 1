@@ -1,0 +1,28 @@
+mkdir-make directory
+cd-change directory
+
+IDLE-Integrated Develpment Language Enivornment.
+
+Python IDLE-1)Shell window 2)Editor window
+
+variales
+Strings
+
+addition->+
+substraction->-
+modulo(reminder)->%
+division->/
+
+print("")->b/w double quotes is considered as string
+
+option-input
+will allow the user to type the values by himself
+
+e=a+b->will simply consider it as string
+eg. a=20
+b=30
+e=a+b
+print(e)
+2030
+
+so need to get rid of it we showld define it as float or in
